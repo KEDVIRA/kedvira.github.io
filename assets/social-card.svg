@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="KEDVIRA Lab social media preview">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102D40"/><stop offset="1" stop-color="#0A2335"/></linearGradient><radialGradient id="glow"><stop stop-color="#187B81" stop-opacity=".5"/><stop offset="1" stop-color="#187B81" stop-opacity="0"/></radialGradient><pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#77B3B2" stroke-opacity=".10" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="630" fill="url(#bg)"/><rect width="1200" height="630" fill="url(#grid)"/><circle cx="895" cy="260" r="420" fill="url(#glow)"/><path d="M70 68H1130" stroke="#3E6977" stroke-opacity=".7"/>
+<text x="75" y="110" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4" fill="#8AE4D2">KNOWLEDGE-DRIVEN AI RESEARCH</text>
+<text x="75" y="275" font-family="Arial,sans-serif" font-size="110" font-weight="800" letter-spacing="-5" fill="#F4FEFB">KEDVIRA</text>
+<rect x="80" y="306" width="104" height="46" rx="9" fill="#69DCCB"/><text x="132" y="337" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="800" letter-spacing="3" fill="#102D40">LAB</text>
+<text x="76" y="420" font-family="Arial,sans-serif" font-size="28" font-weight="500" fill="#D3E9E8">Connecting Knowledge.</text>
+<text x="76" y="455" font-family="Arial,sans-serif" font-size="28" font-weight="500" fill="#D3E9E8">Discovering Meaning. Advancing Learning.</text>
+<g font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#86C5C4"><text x="76" y="548">KNOWLEDGE GRAPHS</text><text x="314" y="548">·</text><text x="340" y="548">SEMANTIC RETRIEVAL</text><text x="592" y="548">·</text><text x="619" y="548">AI IN EDUCATION</text></g>
+<g transform="translate(910 295)" fill="none" stroke="#76D9CB" stroke-linecap="round" stroke-linejoin="round">
+<circle r="105" stroke-opacity=".23"/><circle r="177" stroke-opacity=".19"/><circle r="226" stroke-dasharray="2 13" stroke-opacity=".23"/>
+<g stroke-width="2.8" stroke-opacity=".65"><path d="M0 0L-122 -136L112 -133L159 30L94 156L-113 148L-154 3Z"/><path d="M-122 -136L112 -133L94 156L-113 148L-154 3L159 30L112 -133M-122 -136L94 156" stroke-opacity=".43"/></g>
+<circle r="73" fill="#17485C" stroke-width="2.5"/><path d="M-21 -29V32M-20 2L14 -28M-20 2L18 32" stroke-width="6.8" stroke="#EFFFFA"/>
+<g fill="#79E4D0" stroke="#102D40" stroke-width="2"><circle cx="-122" cy="-136" r="14"/><circle cx="112" cy="-133" r="12"/><circle cx="159" cy="30" r="14"/><circle cx="94" cy="156" r="15"/><circle cx="-113" cy="148" r="13"/><circle cx="-154" cy="3" r="13"/></g></g>
+<path d="M70 583H1130" stroke="#3E6977" stroke-opacity=".7"/><text x="1127" y="609" text-anchor="end" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#6E9FAB">KEDVIRA LAB / RESEARCH IDENTITY</text>
+</svg>
